@@ -1,0 +1,2 @@
+# ScrumLord
+Host virtual scrums
